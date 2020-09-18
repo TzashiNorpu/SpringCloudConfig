@@ -1,2 +1,2 @@
-server:
-  port: 3399
+config:
+  info: "Hello 3"
